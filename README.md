@@ -1,6 +1,6 @@
 
-# Venmo Automation
-Pay/charge people all at once when that direct deposit hits.
+# venmo-autopay
+shitty python script to pay/charge people all at once when that direct deposit hits
 
 Install dependencies:
 ```bash
@@ -11,5 +11,3 @@ Run script:
 ``` bash
 python pay_my_bills.py
 ```
-
-**The production build will be in the dist folder of the root directory.**
