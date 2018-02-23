@@ -1,5 +1,4 @@
 from splinter import Browser
-from selenium.webdriver.common.keys import Keys
 
 with Browser() as browser:
 	# visit url
